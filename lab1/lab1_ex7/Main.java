@@ -41,7 +41,7 @@ public class Main {
         // Print merged array
         System.out.print("Merged array: ");
         for(i = 0; i < k; ++i) {
-            System.out.print(merged_arr[i] + " ");
+            System.out.print(merged_arr[i] + " ");  
         }
 
         scanner.close();
