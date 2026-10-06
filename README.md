@@ -8,3 +8,4 @@
 
 ## Labs
 - [x] Lab 1: Java Basics
+- [x] Lab 2: From Objects to Classes, Methods, Constructors, and Overloading
