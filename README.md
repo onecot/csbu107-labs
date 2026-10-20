@@ -7,6 +7,6 @@
 **Student:** Le Minh Tan – 25560052 – CSBU107.R11.KHBC.1
 
 ## Labs
-- [x] Lab 1: Java Basics
-- [x] Lab 2: From Objects to Classes, Methods, Constructors, and Overloading
+- [x] Lab 1: [Java Basics](lab1/)
+- [x] Lab 2: [From Objects to Classes, Methods, Constructors, and Overloading](lab2/)
 - [ ] Lab 3: [Encapsulation and Inheritance](lab3/) — in progress (ex1 done)
