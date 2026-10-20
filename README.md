@@ -9,3 +9,4 @@
 ## Labs
 - [x] Lab 1: Java Basics
 - [x] Lab 2: From Objects to Classes, Methods, Constructors, and Overloading
+- [ ] Lab 3: [Encapsulation and Inheritance](lab3/) — in progress (ex1 done)
