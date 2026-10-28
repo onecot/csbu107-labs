@@ -8,9 +8,9 @@
 |---|----------|--------|
 | 1 | University Student Graduation Management | done |
 | 2 | Ticket Management for Dam Sen Park | done |
-| 3 | Hotel Room Rental Management | todo |
-| 4 | Singer Salary Management for XYZ Company | todo |
-| 5 | Cosmetic Store Order Management | todo |
+| 3 | Hotel Room Rental Management | done |
+| 4 | Singer Salary Management for XYZ Company | done |
+| 5 | Cosmetic Store Order Management | done |
 
 ## Run
 
