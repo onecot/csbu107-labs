@@ -10,3 +10,4 @@
 - [x] Lab 1: [Java Basics](lab1/)
 - [x] Lab 2: [From Objects to Classes, Methods, Constructors, and Overloading](lab2/)
 - [x] Lab 3: [Encapsulation and Inheritance](lab3/)
+- [x] Lab 4: [Comprehensive OOP Review](lab4/)
