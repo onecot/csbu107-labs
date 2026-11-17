@@ -11,3 +11,4 @@
 - [x] Lab 2: [From Objects to Classes, Methods, Constructors, and Overloading](lab2/)
 - [x] Lab 3: [Encapsulation and Inheritance](lab3/)
 - [x] Lab 4: [Comprehensive OOP Review](lab4/)
+- [x] Assessment: [Smart Campus Device Management](assessment/)
