@@ -1,0 +1,48 @@
+1
+6
+1
+SL01
+A1 Corridor Light
+A1 Corridor
+5
+0.2
+8
+1
+SL02
+Library Light
+Library
+10
+0.5
+4
+2
+AC01
+Classroom A1.101 Air Conditioner
+Classroom A1
+8
+1.5
+26
+3
+2
+AC02
+Auditorium Air Conditioner
+Auditorium
+14
+2.0
+24
+5
+3
+CAM01
+Main Gate Camera
+Main Gate
+24
+0.1
+4K
+5
+3
+CAM02
+Library Camera
+thu vien
+12
+0.08
+FullHD
+1
